@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hotel Management System</title>
 </head>
 <body>
 
-<h1>Kingpost Hotel Management System</h1>
+<h1>Hotel Management System</h1>
 
 <p>An innovative solution for managing hotel operations efficiently.</p>
 
