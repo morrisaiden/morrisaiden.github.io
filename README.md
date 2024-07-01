@@ -10,6 +10,8 @@
 
 <p>An innovative solution for managing hotel operations efficiently.</p>
 
+<img src="morris\assets\img\room-3.jpg" alt=">
+
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#features">Features</a></li>
