@@ -10,7 +10,7 @@
 
 <p>An innovative solution for managing hotel operations efficiently.</p>
 
-<img src="mysite.png" alt=">
+<img src="mysite.png" alt="Alt Text">
 
 <h2>Table of Contents</h2>
 <ul>
